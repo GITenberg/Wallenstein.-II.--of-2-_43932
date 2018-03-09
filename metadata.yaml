@@ -1,0 +1,36 @@
+_repo: Wallenstein.-II.--of-2-_43932
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 43932/43932-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Döblin, Alfred
+    aliases:
+    - Poot, Linke
+    - Doblin, Alfred
+    - Doeblin, Alfred
+    - Deblin, A.
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '35387'
+    url: http://www.gutenberg.org/2009/agents/35387
+    wikipedia: http://de.wikipedia.org/wiki/Alfred_D%C3%B6blin
+description: ''
+gutenberg_issued: '2013-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43932'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wallenstein, Albrecht Wenzel Eusebius von, Herzog von Friedland, 1583-1634
+  -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Wallenstein. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/43932
