@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35387
     wikipedia: http://de.wikipedia.org/wiki/Alfred_D%C3%B6blin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43932#Wallenstein.-II.--of-2-
 gutenberg_issued: '2013-10-11'
 gutenberg_type: Text
 identifiers:
